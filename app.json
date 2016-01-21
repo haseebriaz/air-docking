@@ -1,0 +1,25 @@
+{
+  "devtools_port": 9090,
+  "startup_app": {
+    "name": "Air-Docking-Example",
+    "url": "http://localhost.mac/air-docking/index.html",
+    "uuid": "air-docking",
+    "applicationIcon": "http://openfin.github.io/snap-and-dock/openfin.ico",
+    "autoShow": true,
+    "defaultWidth": 760,
+    "defaultHeight": 704,
+    "defaultTop": 100,
+    "defaultLeft": 100
+  },
+  "runtime": {
+    "arguments": "",
+    "version": "stable"
+  },
+  "shortcut": {
+    "company": "OpenFin",
+    "description": "Air-Docking-Example",
+    "icon": "http://openfin.github.io/snap-and-dock/openfin.ico",
+    "name": "air-docking"
+  }
+}
+
