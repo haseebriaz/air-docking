@@ -1,9 +1,9 @@
 # Docking Adobe Air window with Openfin window.
 
-This is a simple and bare minimum demo demonstrating how to dock an Air window to
- an Openfin window.
+This is a simple and bare minimum demo demonstrating how to dock an Air window to an Openfin window.
 
- # How to setup
+
+# How to run
 
  1) Download the [Air project](http://haseebriaz.github.io/air-docking/OpenFinDockTest.zip) packed in a zip file.
 
