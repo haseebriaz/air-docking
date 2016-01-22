@@ -2,7 +2,7 @@
   "devtools_port": 9090,
   "startup_app": {
     "name": "Air-Docking-Example",
-    "url": "http://localhost.mac/air-docking/index.html",
+    "url": "http://haseebriaz.github.io/air-docking/index.html",
     "uuid": "air-docking",
     "applicationIcon": "http://openfin.github.io/snap-and-dock/openfin.ico",
     "autoShow": true,
